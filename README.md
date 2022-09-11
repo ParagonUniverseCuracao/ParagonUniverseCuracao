@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ParagonUniverseCuracao
 - 👀 I’m interested in Aviation and Aerospace (A&A), Software Development, Vertical Take Off and Landing (VTOL), Renewable Energy (RE); and the Transportation sector.
 - 🌱 I’m currently learning translation/transcription coding and working hard on finishing ongoing projects.
-- 💞️ I’m looking to collaborate on interestin projects and business ventures.
+- 💞️ I’m looking to collaborate on interesting projects and business ventures.
 - 📫 How to reach me is so easy, so via: Social Media Platforms, email, Mobile, Phone/Fax 
 
 <!---
